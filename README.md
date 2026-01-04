@@ -1,10 +1,11 @@
 Hi, I’m Olivier 👋  
 
-I work on applied computational science, machine learning, and scientific computing.
+I work on scientific computing & modelling, DL/ML and numerical methods.
 
 Interests:
+- ML and DL
 - Spatiotemporal modelling and surrogate models
-- Graph neural networks and deep learning
+- Graph neural networks
 - Reinforcement learning for continuous control
 - Numerical methods
 
